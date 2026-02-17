@@ -1,7 +1,7 @@
 # Retail Customer Segmentation (RFM Analysis)
 
 ##  Project Overview
-Analyzed 500,000+ transaction records for a UK-based online retailer to identify customer segments. Used **SQL Window Functions (NTILE)** and **CTEs** to calculate Recency, Frequency, and Monetary (RFM) scores, enabling targeted marketing strategies for "Champions" vs. "At-Risk" customers.
+Analyzed 407,000+ transaction records for a UK-based online retailer to identify customer segments. Used **SQL Window Functions (NTILE)** and **CTEs** to calculate Recency, Frequency, and Monetary (RFM) scores, enabling targeted marketing strategies for "Champions" vs. "At-Risk" customers.
 
 ##  Tools Used
 - **Database:** Microsoft SQL Server 2022
