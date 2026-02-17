@@ -1,7 +1,7 @@
 # Retail Customer Segmentation (RFM Analysis)
 
 ##  Project Overview
-Analyzed 500,000+ transaction records for a UK-based online retailer to identify high-value customer segments. This project implements an **RFM (Recency, Frequency, Monetary)** model to classify customers into actionable groups such as "Champions", "Loyal", and "At Risk".
+Analyzed 407,000+ transaction records for a UK-based online retailer to identify high-value customer segments. This project implements an **RFM (Recency, Frequency, Monetary)** model to classify customers into actionable groups such as "Champions", "Loyal", and "At Risk".
 
 The insights are first generated via complex SQL queries and then visualized in an interactive Power BI dashboard for strategic decision-making.
 
